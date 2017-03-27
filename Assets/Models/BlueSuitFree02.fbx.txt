@@ -1,0 +1,1 @@
+Unable to read material "(null)" in .mtl file
