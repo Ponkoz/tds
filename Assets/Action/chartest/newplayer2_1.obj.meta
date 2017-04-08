@@ -7,11 +7,21 @@ ModelImporter:
   fileIDToRecycleName:
     100000: face
     100002: //RootNode
+    100004: uwagi
+    100006: hat
     400000: face
     400002: //RootNode
+    400004: uwagi
+    400006: hat
     2300000: face
+    2300002: uwagi
+    2300004: hat
     3300000: face
+    3300002: uwagi
+    3300004: hat
     4300000: face
+    4300002: uwagi
+    4300004: hat
   materials:
     importMaterials: 1
     materialName: 0

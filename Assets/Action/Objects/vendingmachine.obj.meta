@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: mat1
     100002: //RootNode
+    100004: mat2
     400000: mat1
     400002: //RootNode
+    400004: mat2
     2300000: mat1
+    2300002: mat2
     3300000: mat1
+    3300002: mat2
     4300000: mat1
+    4300002: mat2
   materials:
     importMaterials: 1
     materialName: 0
