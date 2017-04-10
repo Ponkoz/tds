@@ -75,6 +75,8 @@ ModelImporter:
     100134: mixamorig:RightHandThumb2
     100136: mixamorig:RightHandThumb3
     100138: mixamorig:RightHandThumb4
+    100140: eyes
+    100142: hair
     400000: face
     400002: mixamorig:Head
     400004: mixamorig:HeadTop_End
@@ -145,17 +147,23 @@ ModelImporter:
     400134: mixamorig:RightHandThumb2
     400136: mixamorig:RightHandThumb3
     400138: mixamorig:RightHandThumb4
+    400140: eyes
+    400142: hair
     2300000: unamed
     3300000: unamed
     4300000: unamed
     4300002: face
     4300004: uwagi
     4300006: hat
+    4300008: hair
+    4300010: eyes
     7400000: mixamo.com
     9500000: //RootNode
     13700000: face
     13700002: uwagi
     13700004: hat
+    13700006: eyes
+    13700008: hair
   materials:
     importMaterials: 1
     materialName: 0
@@ -166,9 +174,11 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: mixamorig:Hips
-    animationImportErrors: "Invalid copied Avatar Rig Configuration:\n\tNo human bone
-      found. Ensure both rig type match\n"
-    animationImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 'Avatar Rig Configuration mis-match. Bone length in configuration
+      does not match position in animation file
+
+      newplayer2_1'
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 3
