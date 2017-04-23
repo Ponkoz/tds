@@ -8,15 +8,25 @@ ModelImporter:
     100000: //RootNode
     100002: Default_Prototype
     100004: hashira
+    100006: building1
+    100008: building_l2
     400000: //RootNode
     400002: Default_Prototype
     400004: hashira
+    400006: building1
+    400008: building_l2
     2300000: Default_Prototype
     2300002: hashira
+    2300004: building1
+    2300006: building_l2
     3300000: Default_Prototype
     3300002: hashira
+    3300004: building1
+    3300006: building_l2
     4300000: Default_Prototype
     4300002: hashira
+    4300004: building1
+    4300006: building_l2
   materials:
     importMaterials: 1
     materialName: 0
